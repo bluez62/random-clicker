@@ -4,9 +4,9 @@ body {
 h1 {
   color: white;
   position: absolute;
-  top: 40%;
+  top: 80%;
   left: 50%;
-  transform: translate(-40%, -50%);
+  transform: translate(-80%, -50%);
 }
 p {
   color: white;
